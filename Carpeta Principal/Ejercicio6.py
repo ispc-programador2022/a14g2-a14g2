@@ -14,8 +14,9 @@
 
 """
 
+
 def potencia(a, b):
   resultado = pow(a, b)
-  print(resultado)
+  return resultado
 
 
