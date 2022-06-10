@@ -1,8 +1,8 @@
 """
 6- función potencia. Retorna la potencia del primero elevado al segundo parametros
 
--[*] Implementar la funcion
--[*] Pull Request
+-[ ] Implementar la funcion
+-[ ] Pull Request
 
 -------------------------------------------
                  PRUEBAS
