@@ -31,7 +31,7 @@ Guia en desarrollo, por cambios o errores comunicarse con el product owner
    -----> development team: se trata de un equipo de entre 3 y 9 personas donde no existen jerarquías ni sub-roles. Los 
                             profesionales que pertenecen al Development Team (equipo de desarrollo) son los encargados 
                             de entregar un incremento de producto “hecho” que potencialmente se pueda liberar en entorno 
-                            productivo.                                                                                               
+                            productivo.                                                                                          
    
    Sprint: El corazón de Scrum es un Sprint, es un intervalo prefijado de tiempo (no inferior a una semana ni superior a un mes) 
            durante el cual se crea un incremento de producto "Hecho o Terminado" utilizable, potencialmente entregable
