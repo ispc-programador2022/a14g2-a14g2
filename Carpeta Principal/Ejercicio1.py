@@ -1,2 +1,3 @@
-def sumar(valor1,valor2):
-  return valor1 + valor2
+# 1-   función suma, retorna la suma de 2 parámetros.
+def suma(a,b):
+    return a+b
